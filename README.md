@@ -41,7 +41,6 @@
         }
 ```
  Результаты всех тестов:
-![img](https://github.com/BorisovaLena/WSUniversalLib/blob/master/test.png)
 ![img](https://github.com/Slavchikk/WSUniversalLib/blob/master/all.png)
 ## Автор :underage: :shipit: :no_entry:
 
