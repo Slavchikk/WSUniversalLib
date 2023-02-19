@@ -41,7 +41,11 @@
         }
 ```
  Результаты всех тестов:
+
+
 ![img](https://github.com/Slavchikk/WSUniversalLib/blob/master/all.png)
+
+
 ## Автор :underage: :shipit: :no_entry:
 
  :neckbeard: **Вячеслав Александрович** - *Kinoteatr* - [Мой аккаунт на GitHub](https://github.com/Slavchikk)
