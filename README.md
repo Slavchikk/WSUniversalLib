@@ -42,7 +42,7 @@
 ```
  Результаты всех тестов:
 ![img](https://github.com/BorisovaLena/WSUniversalLib/blob/master/test.png)
-![img](https://github.com/Slavchikk/WSUniversalLib.dll/blob/master/all.png)
+![img](https://github.com/Slavchikk/WSUniversalLib/blob/master/all.png)
 ## Автор :underage: :shipit: :no_entry:
 
  :neckbeard: **Вячеслав Александрович** - *Kinoteatr* - [Мой аккаунт на GitHub](https://github.com/Slavchikk)
