@@ -73,10 +73,10 @@ namespace UnitTestProject1
             Assert.AreEqual(execept, actual);
         }
         [TestMethod]
-        public void GetQuantityForProduct_WidthIs5_LengthIs5_CountProdIs36000000_TypeProdIs1_MaterialIs1_ReturnIsMin1() //Большое количество деталей
+        public void GetQuantityForProduct_WidthIs150_LengthIs155_CountProdIs36000000_TypeProdIs1_MaterialIs1_ReturnIsMin1() //Большое количество деталей
         {
-            float width = 5;
-            int length = 5, count = 36000000, productType = 1, materialType = 1;
+            float width = 150;
+            int length = 155, count = 36000000, productType = 1, materialType = 1;
             double execept = -1;
             Calculation calculation = new Calculation();
             double actual = calculation.GetQuantityForProduct(productType, materialType, count, width, length);

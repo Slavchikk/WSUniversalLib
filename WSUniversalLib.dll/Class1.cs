@@ -18,7 +18,7 @@ namespace WSUniversalLib
             {
                 return -1;
             }
-            if (width < 0 || length < 0 || count < 0) // Длина,ширина и количество не могут быть отрицательными
+            if (width <= 0 || length <= 0 || count <= 0) // Длина,ширина и количество не могут быть отрицательными
             {
                 return -1;
             }
